@@ -64,7 +64,7 @@ Currently a **Research Intern at the Soft Matter Biophysics Lab, IISERM** and an
 -  **Rajgya Puraskar** — Bharat Scouts and Guides *(Feb 2025)*
 -  Volunteer — **IAPT Anveshika Bharat Yatra 2025**
 -  Coordinator — **National Service Scheme, IISERM** *(2025)*
-- 🎉 Co-Convenor of the Organising Committee while being Logistics and Security Head — **INSOMNIA - Cultural Fest, IISERM** *(2026)*
+- 🎉 **Co-Convenor** of the Organising Committee while being **Logistics and Security Head** — **INSOMNIA - Cultural Fest, IISERM** *(2026)*
 
 ---
 
