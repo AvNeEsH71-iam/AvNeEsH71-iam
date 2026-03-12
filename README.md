@@ -2,9 +2,6 @@
 
 # Hi, I'm Avneesh Singh
 
-**Physics Major (BSMS) · IISER Mohali**
-*Computational Biophysics · Molecular Dynamics Simulations · Soft Matter Physics · Membrane Physics*
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/avneesh-singh)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-8482-7207)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ms23249@iisermohali.ac.in)
