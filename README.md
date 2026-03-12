@@ -70,6 +70,5 @@ Currently a **Research Intern at the Soft Matter Biophysics Lab, IISERM** and an
 
 <div align="center">
 
-*"Translating physical laws into computational insight."*
 
 </div>
