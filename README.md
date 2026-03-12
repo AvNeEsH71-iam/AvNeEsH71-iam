@@ -30,17 +30,6 @@ Currently a **Research Intern at the Soft Matter Biophysics Lab, IISERM** and an
 
 ---
 
-## 🧪 Experience
-
-| Role | Organization | Period |
-|------|-------------|--------|
-| Lab Member — Soft Matter Biophysics Lab | IISER Mohali (Dr. Tripta Bhatia) | Jan 2025 – Present |
-| NMRLipids Contributor | UiB Norway (Dr. Markus Miettinen) | Nov 2025 – Present |
-| Summer Research Intern | IISER Mohali (Prof. Rajeev Kapri) | May – Jul 2024 |
-| Winter Research Intern | IISER Mohali (Prof. Rajeev Kapri) | Dec 2024 |
-
----
-
 ## 🛠️ Tech Stack
 
 **Simulation & Analysis**
