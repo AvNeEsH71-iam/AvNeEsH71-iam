@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Avneesh Singh 👋
+# Hi, I'm Avneesh Singh
 
 **Physics Major (BSMS) · IISER Mohali**
 *Computational Biophysics · Molecular Dynamics Simulations · Soft Matter Physics · Membrane Physics*
@@ -22,7 +22,7 @@ Currently a **Research Intern at the Soft Matter Biophysics Lab, IISERM** and an
 
 ---
 
-## 🔬 Research Interests
+## 🔬 Research Interests 
 
 - **Molecular Dynamics Simulation** — lipid bilayer systems, force field validation
 - **Computational Biophysics** — membrane physics, fluctuation analysis
@@ -38,16 +38,6 @@ Currently a **Research Intern at the Soft Matter Biophysics Lab, IISERM** and an
 | NMRLipids Contributor | UiB Norway (Dr. Markus Miettinen) | Nov 2025 – Present |
 | Summer Research Intern | IISER Mohali (Prof. Rajeev Kapri) | May – Jul 2024 |
 | Winter Research Intern | IISER Mohali (Prof. Rajeev Kapri) | Dec 2024 |
-
----
-
-## 📄 Publications (Datasets)
-
-1. **CHARMM36 DPPE bilayer freezes at 342 K** *(Nov 2025)*
-   — Supervisor: Dr. Markus Miettinen, UiB Norway
-
-2. **Fully hydrated bilayer of POPC and cholesterol (6.7 mol-%) at 298 K simulated using CHARMM36** *(Jan 2026)*
-   — Supervisor: Dr. Markus Miettinen, UiB Norway
 
 ---
 
