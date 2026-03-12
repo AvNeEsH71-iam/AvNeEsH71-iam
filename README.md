@@ -29,6 +29,9 @@ Currently a **Research Intern at the Soft Matter Biophysics Lab, IISERM** and an
 
 ##  Tech Stack
 
+**HPC**
+![HPC](https://img.shields.io/badge/HPC_Clusters-4B275F?style=flat-square&logoColor=white)
+
 **Simulation & Analysis**
 
 ![GROMACS](https://img.shields.io/badge/GROMACS-0078D4?style=flat-square&logoColor=white)
