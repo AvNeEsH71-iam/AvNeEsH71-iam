@@ -22,7 +22,7 @@ Currently a **Research Intern at the Soft Matter Biophysics Lab, IISERM** and an
 
 ---
 
-## 🔬 Research Interests 
+##  Research Interests 
 
 - **Molecular Dynamics Simulation** — lipid bilayer systems, force field validation
 - **Computational Biophysics** — membrane physics, fluctuation analysis
@@ -30,7 +30,7 @@ Currently a **Research Intern at the Soft Matter Biophysics Lab, IISERM** and an
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Simulation & Analysis**
 
@@ -53,7 +53,7 @@ Currently a **Research Intern at the Soft Matter Biophysics Lab, IISERM** and an
 
 ---
 
-## 🎤 Talks & Presentations
+##  Talks & Presentations
 
 - **Flicker Analysis** — Fluctuation analysis techniques and spectral methods in Membrane Physics *(Jun 2025)*
 - **Introduction to Knot Theory** — Tattva Science Fest, IISERM *(2025)*
@@ -63,11 +63,11 @@ Currently a **Research Intern at the Soft Matter Biophysics Lab, IISERM** and an
 
 ---
 
-## 🏅 Co Curricular Activities
+##  Co Curricular Activities
 
-- 🏆 **Rajgya Puraskar** — Bharat Scouts and Guides *(Feb 2025)*
-- 🔭 Volunteer — **IAPT Anveshika Bharat Yatra 2025**
-- 📋 Coordinator — **National Service Scheme, IISERM** *(2025)*
+-  **Rajgya Puraskar** — Bharat Scouts and Guides *(Feb 2025)*
+-  Volunteer — **IAPT Anveshika Bharat Yatra 2025**
+-  Coordinator — **National Service Scheme, IISERM** *(2025)*
 - 🎉 Co-Convenor of the Organising Committee while being Logistics and Security Head — **INSOMNIA - Cultural Fest, IISERM** *(2026)*
 
 ---
