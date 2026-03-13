@@ -29,21 +29,13 @@ Currently a **Research Intern at the Soft Matter Biophysics Lab, IISERM** and an
 
 ##  Tech Stack
 
-**HPC**
+**HPC** - HPC clusters
 
-HPC clusters
+**Simulation & Analysis** - GROMACS, VMD & Avagadro
 
-**Simulation & Analysis**
+**Programming & Tools** - Python, Bash, Jupyter
 
-GROMACS, VMD & Avagadro
-
-**Programming & Tools**
-
-Python, Bash, Jupyter
-
-**Lab & Imaging**
-
-ImageJ, OpenCV
+**Lab & Imaging** - ImageJ, OpenCV
 
 *Phase Contrast Microscopy · Flicker/Fluctuation Analysis · Spectral Methods*
 
