@@ -29,7 +29,7 @@ Currently a **Research Intern at the Soft Matter Biophysics Lab, IISERM** and an
 
 ##  Tech Stack
 
-**HPC** - HPC clusters
+**HPC user** - HPC clusters IISERM
 
 **Simulation & Analysis** - GROMACS, VMD & Avagadro
 
