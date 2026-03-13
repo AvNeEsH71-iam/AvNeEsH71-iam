@@ -10,7 +10,6 @@ I'm a 3rd year BSMS student majoring in **Physics** with a **Data Science minor*
 Currently a **Research Intern at the Soft Matter Biophysics Lab, IISERM** and an active contributor to the **NMRLipids** databank
 .
 
----
 
 ##  Research Interests 
 
@@ -18,7 +17,6 @@ Currently a **Research Intern at the Soft Matter Biophysics Lab, IISERM** and an
 - **Computational Biophysics** — membrane physics, fluctuation analysis
 - **Soft Matter Biophysics** — phase transitions, membrane dynamics
 
----
 
 ##  Tech Stack
 
@@ -32,13 +30,13 @@ Currently a **Research Intern at the Soft Matter Biophysics Lab, IISERM** and an
 
 *Phase Contrast Microscopy · Flicker/Fluctuation Analysis · Spectral Methods*
 
----
+
 
 ##  Co Curricular Activities
 
 - 🎉 **Co-Convenor** of the Organising Committee while being **Logistics and Security Head** — **INSOMNIA - Cultural Fest, IISERM** *(2026)*
 
----
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/avneesh-singh)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-8482-7207)
