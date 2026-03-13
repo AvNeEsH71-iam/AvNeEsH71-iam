@@ -41,21 +41,8 @@ Currently a **Research Intern at the Soft Matter Biophysics Lab, IISERM** and an
 
 ---
 
-##  Talks & Presentations
-
-- **Flicker Analysis** — Fluctuation analysis techniques and spectral methods in Membrane Physics *(Jun 2025)*
-- **Introduction to Knot Theory** — Tattva Science Fest, IISERM *(2025)*
-- **Bessel Functions in Spherical Symmetry** — Part of ODE Coursework
-- **Weekly Journal Club** — Computational Biophysics & MD Simulations
-- **Inspire Roots** - Delivered science outreach seminars at Meritorious School Chandigarh
-
----
-
 ##  Co Curricular Activities
 
--  **Rajgya Puraskar** — Bharat Scouts and Guides *(Feb 2025)*
--  Volunteer — **IAPT Anveshika Bharat Yatra 2025**
--  Coordinator — **National Service Scheme, IISERM** *(2025)*
 - 🎉 **Co-Convenor** of the Organising Committee while being **Logistics and Security Head** — **INSOMNIA - Cultural Fest, IISERM** *(2026)*
 
 ---
