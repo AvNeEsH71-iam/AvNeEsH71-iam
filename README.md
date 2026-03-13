@@ -31,23 +31,19 @@ Currently a **Research Intern at the Soft Matter Biophysics Lab, IISERM** and an
 
 **HPC**
 
-![HPC](https://img.shields.io/badge/HPC_Clusters-4B275F?style=flat-square&logoColor=white)
+HPC clusters
 
 **Simulation & Analysis**
 
-![GROMACS](https://img.shields.io/badge/GROMACS-0078D4?style=flat-square&logoColor=white)
-![VMD](https://img.shields.io/badge/VMD-FF6B35?style=flat-square&logoColor=white)
+GROMACS, VMD & Avagadro
 
 **Programming & Tools**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+Python, Bash, Jupyter
 
 **Lab & Imaging**
 
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![ImageJ](https://img.shields.io/badge/ImageJ-00B4D8?style=flat-square&logoColor=white)
+ImageJ, OpenCV
 
 *Phase Contrast Microscopy · Flicker/Fluctuation Analysis · Spectral Methods*
 
