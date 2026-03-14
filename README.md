@@ -5,7 +5,7 @@
 
 ## About Me
 
-I'm a 3rd year BSMS student majoring in **Physics** with a **Data Science minor** at the Indian Institute of Science Education and Research (IISER) Mohali. I work at the intersection of computational physics and biophysics — running molecular dynamics simulations to understand soft matter and biological membranes.
+I'm a 3rd year BSMS student majoring in **Physics** with a **Data Science minor** at the Indian Institute of Science Education and Research (IISER) Mohali. I work at the intersection of computational physics and biophysics and running molecular dynamics simulations to understand soft matter and biological membranes.
 
 Currently a **Research Intern at the Soft Matter Biophysics Lab, IISERM** and an active contributor to the **NMRLipids** databank
 .
