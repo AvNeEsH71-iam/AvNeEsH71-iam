@@ -13,9 +13,9 @@ Currently a **Research Intern at the Soft Matter Biophysics Lab, IISERM** and an
 
 ##  Research Interests 
 
-- **Molecular Dynamics Simulation** — lipid bilayer systems, force field validation
-- **Computational Biophysics** — membrane physics, fluctuation analysis
-- **Soft Matter Biophysics** — phase transitions, membrane dynamics
+- **Molecular Dynamics Simulation** : lipid bilayer systems, force field validation
+- **Computational Biophysics** : membrane physics, fluctuation analysis
+- **Soft Matter Biophysics** : phase transitions, membrane dynamics
 
 
 ##  Tech Stack
