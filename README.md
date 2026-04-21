@@ -34,7 +34,7 @@ Currently I am a **Research Intern at the [Soft Matter Biophysics Lab, IISERM](h
 
 ##  Co Curricular Activities
 
-- 🎉 **Co-Convenor** of the Organising Committee while being **Logistics and Security Head** — **INSOMNIA - Cultural Fest, IISERM** *(2026)*
+ **Co-Convenor** of the Organising Committee while being **Logistics and Security Head** — **INSOMNIA - Cultural Fest, IISERM** *(2026)*
 
 
 
