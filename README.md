@@ -17,7 +17,7 @@ Currently I am a **Research Intern at the [Soft Matter Biophysics Lab, IISERM](h
 
 ##  Tech Stack
 
-**HPC user** - LUNARC COSMOS and Dardel PDC by Lund University, KTH Royal University of Sweden respectively under NAISS
+**HPC user** - LUNARC COSMOS and Dardel PDC by Lund University and KTH Royal University of Sweden respectively under NAISS
 
 **Simulation & Analysis** - GROMACS, VMD & Avagadro
 
