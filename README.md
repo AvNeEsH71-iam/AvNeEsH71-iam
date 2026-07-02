@@ -25,7 +25,7 @@ Currently I am a **Research Intern at the [Soft Matter Biophysics Lab, IISERM](h
 
 **Lab & Imaging** - ImageJ, OpenCV
 
-*Phase Contrast Microscopy · Flicker/Fluctuation Analysis · Spectral Methods*
+* Flicker/Fluctuation Analysis *
 
 
 
