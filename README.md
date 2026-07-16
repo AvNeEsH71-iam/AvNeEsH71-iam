@@ -5,7 +5,7 @@
 
 I'm a 3rd year BSMS student majoring in **Physics** with a **Data Science minor** at the Indian Institute of Science Education and Research (IISER) Mohali. I work at the intersection of computational physics and biophysics and running molecular dynamics simulations to understand soft matter and biological membranes. I am also intrested in simulating AICD.
 
-Currently I am a **Research Intern at the [Soft Matter Biophysics Lab, IISERM](https://bhattri.github.io/Biophysics/lab.html)** and an open source Contributor at the **[NMRLipids](https://github.com/NMRLipids/BilayerData)** databank UiB Norway.
+Currently I am a **Research Intern at the [Skepo Research Group, Lund University](https://portal.research.lu.se/sv/persons/marie-skep%C3%B6/)** and an open source Contributor at the **[NMRLipids](https://github.com/NMRLipids/BilayerData)** databank UiB Norway.
 
 
 ##  Research Interests 
