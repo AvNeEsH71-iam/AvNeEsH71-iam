@@ -11,7 +11,7 @@ Currently I am a **Project Worker at the [Skepö Research Group, Lund University
 ##  Research Interests 
 
 - **Molecular Dynamics Simulation** : lipid bilayer systems, force field validation
-- **Computational Biophysics** : membrane physics, fluctuation analysis
+- **Computational Biophysics** : membrane physics, fluctuation analysis, Intrincically Disordered Protiens 
 - **Soft Matter Biophysics** : phase transitions, membrane dynamics
 
 
