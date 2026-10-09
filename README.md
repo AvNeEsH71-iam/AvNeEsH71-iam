@@ -17,7 +17,7 @@ Currently I am a **Project Worker at the [Skepö Research Group, Lund University
 
 ##  Tech Stack
 
-**HPC user** - LUNARC COSMOS by Lund University and Dardel PDC by KTH Royal University of Sweden under National Academic Infrastructure for Supercomputing in Sweden (NAISS)
+**HPC user** - LUNARC COSMOS by Lund University and Dardel PDC by KTH Royal Institute of Technology under National Academic Infrastructure for Supercomputing in Sweden (NAISS)
 
 **Simulation & Analysis** - GROMACS, VMD & Avagadro
 
